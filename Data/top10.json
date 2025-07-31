@@ -1,0 +1,74 @@
+[
+  {
+    "placename": "Colombo",
+    "location": "Colombo, Sri Lanka",
+    "imageurls": ["", 
+                    "", 
+                    ""],
+    "descripction": "Bustling capital with vibrant culture",
+    "key": "colombo"
+  },
+  {
+    "placename": "Kandy",
+    "location": "Kandy, Sri Lanka",
+    "imageurls": ["", "", ""],
+    "descripction": "Sacred city with Temple of Tooth",
+    "key": "kandy"
+  },
+  {
+    "placename": "Galle Fort",
+    "location": "Galle, Sri Lanka",
+    "imageurls": ["", "", ""],
+    "descripction": "Historic Dutch fort by the sea",
+    "key": "galle-fort"
+  },
+  {
+    "placename": "Sigiriya Rock",
+    "location": "Sigiriya, Sri Lanka",
+    "imageurls": ["", "", ""],
+    "descripction": "Ancient rock fortress and gardens",
+    "key": "sigiriya"
+  },
+  {
+    "placename": "Nuwara Eliya",
+    "location": "Nuwara Eliya, Sri Lanka",
+    "imageurls": ["", "", ""],
+    "descripction": "Cool climate with tea plantations",
+    "key": "nuwara-eliya"
+  },
+  {
+    "placename": "Anuradhapura",
+    "location": "Anuradhapura, Sri Lanka",
+    "imageurls": ["", "", ""],
+    "descripction": "Ancient capital with sacred stupas",
+    "key": "anuradhapura"
+  },
+  {
+    "placename": "Polonnaruwa",
+    "location": "Polonnaruwa, Sri Lanka",
+    "imageurls": ["", "", ""],
+    "descripction": "Ruins of ancient royal city",
+    "key": "polonnaruwa"
+  },
+  {
+    "placename": "Ella",
+    "location": "Ella, Sri Lanka",
+    "imageurls": ["", "", ""],
+    "descripction": "Scenic hills and Nine Arches Bridge",
+    "key": "ella"
+  },
+  {
+    "placename": "Yala National Park",
+    "location": "Yala, Sri Lanka",
+    "imageurls": ["", "", ""],
+    "descripction": "Wildlife sanctuary with leopards",
+    "key": "yala"
+  },
+  {
+    "placename": "Mirissa Beach",
+    "location": "Mirissa, Sri Lanka",
+    "imageurls": ["", "", ""],
+    "descripction": "Popular beach with whale watching",
+    "key": "mirissa"
+  }
+]
