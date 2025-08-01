@@ -13,7 +13,8 @@
     "id": "02",
     "placename": "Kandy",
     "location": "Kandy, Sri Lanka",
-    "imageurls": ["", "", ""],
+    "imageurls": ["https://raw.githubusercontent.com/thimira-kavishka/GoLanka/refs/heads/main/Data/Images/Top10/kandy01.jpg", 
+      "https://raw.githubusercontent.com/thimira-kavishka/GoLanka/refs/heads/main/Data/Images/Top10/kandy02.jpg"],
     "descripction": "Sacred city with Temple of Tooth",
     "key": "kandy"
   },
